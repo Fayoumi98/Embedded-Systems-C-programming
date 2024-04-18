@@ -5,9 +5,9 @@
 * ✅ 1 : Basics
 * ✅ 2 : Bitwise Operators
 * ✅ 3 : Functions
-* ✅ 2 : String
-* ✅ 2 : Arrays & Pointers
-* ✅ 2 : Structure & Union
+* ✅ 4 : String
+* ✅ 5 : Arrays & Pointers
+* ✅ 6 : Structure & Union
 
 
 
