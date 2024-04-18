@@ -17,4 +17,3 @@
 
 Omar El-Fayoumi - omarselfayoumi@gmail.com
 
-Project Link: [https://github.com/Fayoumi98/presentation_evaluator](https://github.com/Fayoumi98/presentation_evaluator)
